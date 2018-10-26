@@ -2,3 +2,9 @@ body {
   background-color: whitesmoke; }
   body h1 {
     color: black; }
+  body a {
+    color: white; }
+  body a:hover {
+    color: red; }
+  body .footer-text {
+    font-size: small; }
