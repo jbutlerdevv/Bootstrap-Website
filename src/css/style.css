@@ -8,3 +8,7 @@ body {
     color: red; }
   body .footer-text {
     font-size: small; }
+  body .over-navigation {
+    background-image: url("../img/programming_banner.jpg");
+    background-size: cover;
+    height: 200px; }
